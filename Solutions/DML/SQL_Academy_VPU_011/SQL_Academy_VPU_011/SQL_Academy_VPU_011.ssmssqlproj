@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="SQL_Academy_VPU_011">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="DSTPL15090B685\SQLEXPRESS:SMITHSNET\DMDIAVasilchenko">
+          <Created>2021-11-21T13:40:21.132291+03:00</Created>
+          <Type>SQL</Type>
+          <Server>DSTPL15090B685\SQLEXPRESS</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="SQLQuery1_DELETE_rows_specialization.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DSTPL15090B685\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DSTPL15090B685\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery1_DELETE_rows_specialization.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery1_INSERT_INTO_groups.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DSTPL15090B685\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DSTPL15090B685\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery1_INSERT_INTO_groups.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery1_INSERT_INTO_specializations.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DSTPL15090B685\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DSTPL15090B685\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery1_INSERT_INTO_specializations.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery3_INSERT_INTO_students.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DSTPL15090B685\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DSTPL15090B685\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery3_INSERT_INTO_students.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery4_MULTI_SELECT_FROM_students.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DSTPL15090B685\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DSTPL15090B685\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery4_MULTI_SELECT_FROM_students.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
