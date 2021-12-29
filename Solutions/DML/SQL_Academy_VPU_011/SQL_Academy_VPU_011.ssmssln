@@ -5,12 +5,19 @@ VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "SQL_Academy_VPU_011", "SQL_Academy_VPU_011\SQL_Academy_VPU_011.ssmssqlproj", "{7E22318D-B694-469C-99BF-ECDCAFD434B7}"
 EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "ChangerToDataBase", "ChangerToDataBase\ChangerToDataBase.ssmssqlproj", "{6920EF81-0909-446E-879D-BC0096F209C5}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "HW1_SQL", "HW1_SQL\HW1_SQL.ssmssqlproj", "{FFA0BF7D-C44E-480A-8AF4-4A0502296B57}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Default|Default = Default|Default
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{7E22318D-B694-469C-99BF-ECDCAFD434B7}.Default|Default.ActiveCfg = Default
+		{6920EF81-0909-446E-879D-BC0096F209C5}.Default|Default.ActiveCfg = Default
+		{FFA0BF7D-C44E-480A-8AF4-4A0502296B57}.Default|Default.ActiveCfg = Default
+		{6D38BDB1-3842-496F-9A95-A8D477F6DABA}.Default|Default.ActiveCfg = Default
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
