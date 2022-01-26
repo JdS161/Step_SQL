@@ -9,6 +9,12 @@ Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "ChangerToDataBase", "Change
 EndProject
 Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "HW1_SQL", "HW1_SQL\HW1_SQL.ssmssqlproj", "{FFA0BF7D-C44E-480A-8AF4-4A0502296B57}"
 EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "HW2_SQL_Automatization", "HW2_SQL_Automatization\HW2_SQL_Automatization.ssmssqlproj", "{6261410B-5251-47A7-B510-8482C75E60EB}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "CW_20220116", "CW_20220116\CW_20220116.ssmssqlproj", "{E4C6AF2A-6A28-49E2-836C-02A23CDBAA7E}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "CW_20220123", "CW_20220123\CW_20220123.ssmssqlproj", "{23C653EE-B248-41B4-A4A5-7B290A4010EE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Default|Default = Default|Default
@@ -17,7 +23,10 @@ Global
 		{7E22318D-B694-469C-99BF-ECDCAFD434B7}.Default|Default.ActiveCfg = Default
 		{6920EF81-0909-446E-879D-BC0096F209C5}.Default|Default.ActiveCfg = Default
 		{FFA0BF7D-C44E-480A-8AF4-4A0502296B57}.Default|Default.ActiveCfg = Default
-		{6D38BDB1-3842-496F-9A95-A8D477F6DABA}.Default|Default.ActiveCfg = Default
+		{6261410B-5251-47A7-B510-8482C75E60EB}.Default|Default.ActiveCfg = Default
+		{E4C6AF2A-6A28-49E2-836C-02A23CDBAA7E}.Default|Default.ActiveCfg = Default
+		{CD7D896E-A89B-49EC-AAED-EE27AFEC75B2}.Default|Default.ActiveCfg = Default
+		{23C653EE-B248-41B4-A4A5-7B290A4010EE}.Default|Default.ActiveCfg = Default
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

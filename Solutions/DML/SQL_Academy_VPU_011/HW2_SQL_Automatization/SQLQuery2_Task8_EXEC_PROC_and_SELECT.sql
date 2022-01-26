@@ -1,7 +1,7 @@
 USE SQLAcademyVPU_011;
 GO
 
-EXEC sp_sceduleInsert '2022-01-16 10:00', 20, N'ON-LINE', 15, 8, 1, N'TRIGGERS'
+--EXEC sp_sceduleInsert '2022-01-16 10:00', 20, N'ON-LINE', 15, 8, 1, N'TRIGGERS'
 
 SELECT 
 		schedule_date_time				AS N'Date & Time',
